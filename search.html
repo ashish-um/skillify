@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="circle.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="card.css">
+    <link rel="stylesheet" href="search.css">
+
+</head>
+<body>
+    <div class="circle"></div>
+    <header>
+        <nav class="navbar">
+            <div class="navbar-logo">
+                <a href="#">
+                    <img style="transform: translateY(7px);" width="100" src="./assets/logo.png" alt="Apple Logo">
+                </a>
+            </div>
+            <ul class="navbar-links">
+                <li><form role="search" action="search.html">
+                    <label for="q">Search for stuff</label>
+                    <input id="q" type="search" name="q" placeholder="Search..." autofocus required />
+                    <button type="submit">Go</button>    
+                </form></li>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Jobs</a></li>
+                <li><a href="#">Teams</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+            <div class="navbar-menu-icon" id="menu-icon">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </nav>
+    </header>
+    <br style="margin-top: 10rem;">
+    <div id="results"></div>
+
+    <script src="circle.js"></script>
+    <script src="script.js"></script>
+    <script src="search.js"></script>
+</body>
+</html>

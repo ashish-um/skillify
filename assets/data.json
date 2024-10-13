@@ -1,0 +1,182 @@
+{
+    "skills": [
+      {
+        "skill": "React",
+        "people": [
+          {
+            "name": "John Doe",
+            "email": "john.doe@example.com",
+            "github": "https://github.com/johndoe",
+            "linkedin": "https://linkedin.com/in/johndoe",
+            "twitter": "https://twitter.com/johndoe",
+            "company": "Tech Innovators",
+            "position": "Frontend Developer",
+            "years_of_experience": 4,
+            "profile_photo": "https://i.pinimg.com/564x/7c/59/4b/7c594b9ed6c3abfde25e407a13c95bb1.jpg",
+            "projects": [
+              {
+                "name": "GlassyUI-Components",
+                "description": "A React UI library with glassmorphism design.",
+                "url": "https://github.com/johndoe/glassy-ui"
+              }
+            ]
+          },
+          {
+            "name": "Jane Smith",
+            "email": "jane.smith@example.com",
+            "github": "https://github.com/janesmith",
+            "linkedin": "https://linkedin.com/in/janesmith",
+            "twitter": "https://twitter.com/janesmith",
+            "company": "Web Wizards",
+            "position": "Fullstack Developer",
+            "years_of_experience": 5,
+            "profile_photo": "https://i.pinimg.com/564x/04/da/d5/04dad5434df766998bdfa27973ff9d40.jpg",
+            "projects": [
+              {
+                "name": "React Notification System",
+                "description": "A customizable notification system for React.",
+                "url": "https://github.com/janesmith/react-notifications"
+              }
+            ]
+          },
+          {
+            "name": "Kevin Miles",
+            "email": "kevin.miles@example.com",
+            "github": "https://github.com/kevinmiles",
+            "linkedin": "https://linkedin.com/in/kevinmiles",
+            "twitter": "https://twitter.com/kevinmiles",
+            "company": "Dev Solutions",
+            "position": "React Specialist",
+            "years_of_experience": 3,
+            "profile_photo": "https://i.pinimg.com/564x/74/7a/90/747a90cf94135f169c39a3048085a3c9.jpg",
+            "projects": [
+              {
+                "name": "React E-commerce Platform",
+                "description": "A complete e-commerce platform built with React and Redux.",
+                "url": "https://github.com/kevinmiles/react-ecommerce"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "skill": "Python",
+        "people": [
+          {
+            "name": "Alice Johnson",
+            "email": "alice.johnson@example.com",
+            "github": "https://github.com/alicejohnson",
+            "linkedin": "https://linkedin.com/in/alicejohnson",
+            "twitter": "https://twitter.com/alicejohnson",
+            "company": "AI Pioneers",
+            "position": "Data Scientist",
+            "years_of_experience": 6,
+            "profile_photo": "https://example.com/photos/alicejohnson.jpg",
+            "projects": [
+              {
+                "name": "Oil-SENTRY",
+                "description": "Automated oil spill detection system using satellite data.",
+                "url": "https://github.com/alicejohnson/oil-sentry"
+              }
+            ]
+          },
+          {
+            "name": "David Thompson",
+            "email": "david.thompson@example.com",
+            "github": "https://github.com/davidthompson",
+            "linkedin": "https://linkedin.com/in/davidthompson",
+            "twitter": "https://twitter.com/davidthompson",
+            "company": "DeepTech AI",
+            "position": "Machine Learning Engineer",
+            "years_of_experience": 4,
+            "profile_photo": "https://example.com/photos/davidthompson.jpg",
+            "projects": [
+              {
+                "name": "ML-powered Fraud Detection",
+                "description": "A Python-based ML system for fraud detection in banking.",
+                "url": "https://github.com/davidthompson/fraud-detection"
+              }
+            ]
+          },
+          {
+            "name": "Sophia Martinez",
+            "email": "sophia.martinez@example.com",
+            "github": "https://github.com/sophiamartinez",
+            "linkedin": "https://linkedin.com/in/sophiamartinez",
+            "twitter": "https://twitter.com/sophiamartinez",
+            "company": "Data Insights Co.",
+            "position": "Python Developer",
+            "years_of_experience": 5,
+            "profile_photo": "https://example.com/photos/sophiamartinez.jpg",
+            "projects": [
+              {
+                "name": "Data Analysis Toolkit",
+                "description": "A toolkit for advanced data analysis using Python.",
+                "url": "https://github.com/sophiamartinez/data-analysis-toolkit"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "skill": "UI/UX Design",
+        "people": [
+          {
+            "name": "Bob Wilson",
+            "email": "bob.wilson@example.com",
+            "github": "https://github.com/bobwilson",
+            "linkedin": "https://linkedin.com/in/bobwilson",
+            "twitter": "https://twitter.com/bobwilson",
+            "company": "Creative Minds",
+            "position": "UI/UX Designer",
+            "years_of_experience": 3,
+            "profile_photo": "https://example.com/photos/bobwilson.jpg",
+            "projects": [
+              {
+                "name": "Pet Social App",
+                "description": "A social media platform for pets and their owners.",
+                "url": "https://github.com/bobwilson/pet-social"
+              }
+            ]
+          },
+          {
+            "name": "Emily Davis",
+            "email": "emily.davis@example.com",
+            "github": "https://github.com/emilydavis",
+            "linkedin": "https://linkedin.com/in/emilydavis",
+            "twitter": "https://twitter.com/emilydavis",
+            "company": "Design Hub",
+            "position": "Product Designer",
+            "years_of_experience": 4,
+            "profile_photo": "https://example.com/photos/emilydavis.jpg",
+            "projects": [
+              {
+                "name": "E-commerce Redesign",
+                "description": "Redesigned a major e-commerce platform to improve user experience.",
+                "url": "https://github.com/emilydavis/ecommerce-redesign"
+              }
+            ]
+          },
+          {
+            "name": "Michael Brown",
+            "email": "michael.brown@example.com",
+            "github": "https://github.com/michaelbrown",
+            "linkedin": "https://linkedin.com/in/michaelbrown",
+            "twitter": "https://twitter.com/michaelbrown",
+            "company": "UI Studio",
+            "position": "Senior UX Designer",
+            "years_of_experience": 6,
+            "profile_photo": "https://example.com/photos/michaelbrown.jpg",
+            "projects": [
+              {
+                "name": "Mobile Banking App",
+                "description": "Designed a mobile banking app with a focus on accessibility and usability.",
+                "url": "https://github.com/michaelbrown/banking-app"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
