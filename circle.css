@@ -9,7 +9,7 @@
   .circle {
     --circle-size: 40px;
     position: fixed;
-    z-index: 20;
+    z-index: 10000;
     height: var(--circle-size);
     width: var(--circle-size);
     border: 1px solid black;
