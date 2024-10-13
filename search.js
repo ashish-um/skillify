@@ -29,7 +29,7 @@ function getQueryParameter(name) {
         if (people.length > 0) {
           resultsContainer.innerHTML = people
             .map(person => `
-              <div style="margin-top: 10rem;">
+              <div style="margin-top: 8rem;">
                 <span style="display: flex; gap: 10px; align-items: center;"><img width="40" height="40" style="object-fit: cover; object-position: top; border-radius: 100vw;" src="${person.profile_photo}" alt=""><h2>${person.name}</h2></span>
                 <p><strong>Position:</strong> ${person.position} at ${person.company}</p>
                 <p><strong>Years of Experience:</strong> ${person.years_of_experience}</p>
