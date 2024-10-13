@@ -43,6 +43,9 @@ section:not(:first-child) {
     flex-direction: column;
     justify-content: space-between;
     height: 20rem;
+    p{
+        font-size: small;
+    }
     /* gap: 4rem; */
 }
 
